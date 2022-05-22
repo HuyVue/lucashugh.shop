@@ -1,0 +1,1430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.lucashugh.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.lucashugh.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.lucashugh.com/collections/tops.atom"/>
+  <title>LUCAS HUGH</title>
+  <updated>2021-09-09T11:15:57+01:00</updated>
+  <author>
+    <name>LUCAS HUGH</name>
+  </author>
+  <entry>
+    <id>https://www.lucashugh.com/products/4708891656275</id>
+    <published>2021-09-09T11:15:57+01:00</published>
+    <updated>2021-09-09T11:15:57+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/axis-crop-tank-mahogany"/>
+    <title>Axis Crop Tank</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/AXIS_SET_MAHOGANY_02749.jpg?v=1634635228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This loose fitting sports tank designed as a layering style for wear in and out of the gym. A new take on the classic tank, this style features twisted boxing wrap-inspired panels and mesh to subtly highlight your sports bra, while also providing ventilation. Reflective triangles are placed at the back for visibility.<br></p>
+<p>Main: 73% Polyamide 27% Elastane, Mesh: 80% Polyamide 20% Elastane</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-to-and-from</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>badge-limited-edition</s:tag>
+    <s:tag>colour-mahogany</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-high-visibility</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-machine-washable</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-shape-retention</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>new-in</s:tag>
+    <s:tag>recommended-axis-leggings-mahogany</s:tag>
+    <s:tag>recommended-axis-sports-bra-mahogany</s:tag>
+    <s:tag>recommended-performance-v2-leggings-black</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-burgundy</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-performance</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4708891656275</id>
+      <title>XS</title>
+      <s:price currency="GBP">95.00</s:price>
+      <s:sku>TC012CMH-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4708891656275</id>
+      <title>S</title>
+      <s:price currency="GBP">95.00</s:price>
+      <s:sku>TC012CMH-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4708891656275</id>
+      <title>M</title>
+      <s:price currency="GBP">95.00</s:price>
+      <s:sku>TC012CMH-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4708891656275</id>
+      <title>L</title>
+      <s:price currency="GBP">95.00</s:price>
+      <s:sku>TC012CMH-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/6573178683475</id>
+    <published>2021-08-11T07:41:57+01:00</published>
+    <updated>2021-08-11T07:41:57+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/axis-crop-tank-burnt-orange"/>
+    <title>Axis Crop Tank</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/AXIS_SET_BURNT_ORANGE_02580_16be5017-56b1-4ed5-92e2-0d87992b8f1e.jpg?v=1623417656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Loose fitting sports tank designed as a layering style for wear in and out of the gym. A new take on the classic black tank, this style features twisted boxing wrap-inspired panels and mesh to subtly highlight your sports bra, while also providing ventilation. Reflective triangles are placed at the back for visibility.<br></p>
+<p>Main: 73% Polyamide 27% Elastane, Mesh: 80% Polyamide 20% Elastane</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-to-and-from</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>badge-limited-edition</s:tag>
+    <s:tag>colour-black</s:tag>
+    <s:tag>colour-burnt-orange</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-high-visibility</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-machine-washable</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-shape-retention</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>new-in</s:tag>
+    <s:tag>recommended-axis-leggings-burnt-orange</s:tag>
+    <s:tag>recommended-axis-sports-bra-burnt-orange</s:tag>
+    <s:tag>recommended-mini-pivot-skirt</s:tag>
+    <s:tag>recommended-technical-jumper-summer-weight-black</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6573178683475</id>
+      <title>XS</title>
+      <s:price currency="GBP">95.00</s:price>
+      <s:sku>TC012CBO-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6573178683475</id>
+      <title>S</title>
+      <s:price currency="GBP">95.00</s:price>
+      <s:sku>TC012CBO-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6573178683475</id>
+      <title>M</title>
+      <s:price currency="GBP">95.00</s:price>
+      <s:sku>TC012CBO-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6573178683475</id>
+      <title>L</title>
+      <s:price currency="GBP">95.00</s:price>
+      <s:sku>TC012CBO-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/4735632048211</id>
+    <published>2021-05-12T13:53:01+01:00</published>
+    <updated>2021-05-12T13:53:01+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/technical-knit-sleeveless-tank-white"/>
+    <title>Technical Knit Sleeveless Tank</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/TECH_KNIT_HOTTIES_WHITE_1622.jpg?v=1623923811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>Update your workout basics with the super-soft comfort of the Lucas Hugh circular knit, sustainable sleeveless t-shirt. </span><span>Built with second skin Qnova polyamide, this classic sleeveless t-shirt is lightweight, breathable and has excellent moisture control. A foundational piece for any workout wardrobe. Made from 100% Qnova Polyamide - more than 50% recycled materials, and </span><span data-mce-fragment="1">produced with lower emissions and reduced water consumption.</span></p>
+<p><span></span>Model is 5'11 / 182cm, bust 32" / 76cm and wears size XS/S</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-dance</s:tag>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-to-and-from</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>activity-yoga-barre</s:tag>
+    <s:tag>badge-sustainable</s:tag>
+    <s:tag>colour-white</s:tag>
+    <s:tag>detail-4-way-stretch</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-seamless-circular-knit</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>new-in</s:tag>
+    <s:tag>recommended-axis-leggings-black</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-black</s:tag>
+    <s:tag>recommended-technical-knit-7-8-leggings-black</s:tag>
+    <s:tag>recommended-technical-knit-sports-bra-black</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-technical-knit</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4735632048211</id>
+      <title>XS / S</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku>TC09WH-XS/S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4735632048211</id>
+      <title>M / L</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku>TC09WH-M/L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/2906171998308</id>
+    <published>2021-05-12T13:45:54+01:00</published>
+    <updated>2021-05-12T13:45:54+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/technical-knit-sleeveless-tank-black"/>
+    <title>Technical Knit Sleeveless Tank</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/TECH_KNIT_HOTTIES_BLACK_1511.jpg?v=1611755146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Update your workout basics with the super-soft comfort of the Lucas Hugh circular knit, sustainable sleeveless t-shirt. </span>Built with second skin Qnova polyamide, this classic sleeveless t-shirt is lightweight, breathable and has excellent moisture control. A foundational piece for any workout wardrobe. Made from 100% Qnova Polyamide - more than 50% recycled materials, and <span data-mce-fragment="1">produced with lower emissions and reduced water consumption.</span></p>
+<p><span></span>Model is 5'11 / 182cm, bust 32" / 76cm and wears size XS/S</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-dance</s:tag>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-to-and-from</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>activity-yoga-barre</s:tag>
+    <s:tag>badge-sustainable</s:tag>
+    <s:tag>colour-black</s:tag>
+    <s:tag>detail-4-way-stretch</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-seamless-circular-knit</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>new-in</s:tag>
+    <s:tag>recommended-axis-crop-tank-black</s:tag>
+    <s:tag>recommended-axis-sports-bra-black</s:tag>
+    <s:tag>recommended-technical-knit-7-8-leggings-black</s:tag>
+    <s:tag>recommended-technical-knit-leggings-black</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-technical-knit</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2906171998308</id>
+      <title>XS / S</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku>TC09BL-XS/S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2906171998308</id>
+      <title>M / L</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku>TC09BL-M/L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/6547204341843</id>
+    <published>2021-03-20T11:44:03+00:00</published>
+    <updated>2021-03-20T11:44:03+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/performance-cross-back-tank"/>
+    <title>Performance Cross Back Tank</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/claretcorecrossbacktank_1.jpg?v=1616240527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This lightweight, fitted tank is a must-have for any wardrobe. The fine, moisture-wicking fabric, internal support at the chest and mesh insert at the small of the back ensure comfort when working out, while the slim fit, dipped hem, delicate straps and loop over cross back make it eminently wearable for any occasion. Made from 72% Polyamide 28% Elastane.</p>
+<p>Model is 5'10 / 182cm, bust 32" / 76cm and wears size small</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-dance</s:tag>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>activity-yoga-barre</s:tag>
+    <s:tag>badge-low-stock</s:tag>
+    <s:tag>colour-claret</s:tag>
+    <s:tag>detail-4-way-stretch</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-pilling-resistant</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-shape-retention</s:tag>
+    <s:tag>detail-uv-protection</s:tag>
+    <s:tag>recom</s:tag>
+    <s:tag>recommended-lucas-hugh-tank-black</s:tag>
+    <s:tag>recommended-performance-t-shirt-black</s:tag>
+    <s:tag>recommended-performance-v2-leggings-black</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-burgundy</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-performance</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6547204341843</id>
+      <title>XS</title>
+      <s:price currency="GBP">35.00</s:price>
+      <s:sku>TC03CL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6547204341843</id>
+      <title>S</title>
+      <s:price currency="GBP">35.00</s:price>
+      <s:sku>TC03CL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6547204341843</id>
+      <title>M</title>
+      <s:price currency="GBP">35.00</s:price>
+      <s:sku>TC03CL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6547204341843</id>
+      <title>L</title>
+      <s:price currency="GBP">35.00</s:price>
+      <s:sku>TC03CL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/2913165115492</id>
+    <published>2020-11-10T14:55:39+00:00</published>
+    <updated>2020-11-10T14:55:39+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/axis-crop-tank-black"/>
+    <title>Axis Crop Tank</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/AXIS_SET_BLACK_03064.jpg?v=1623416525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>PROMOTION EXCLUSION</span></p>
+<p>Loose fitting sports tank designed as a layering style for wear in and out of the gym. A new take on the classic black tank, this style features twisted boxing wrap-inspired panels and mesh to subtly highlight your sports bra, while also providing ventilation. Reflective triangles are placed at the back for visibility.<br></p>
+<p>Main: 73% Polyamide 27% Elastane, Mesh: 80% Polyamide 20% Elastane</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-to-and-from</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>badge-limited-edition</s:tag>
+    <s:tag>colour-black</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-high-visibility</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-machine-washable</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-shape-retention</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>new-in</s:tag>
+    <s:tag>recommended-axis-leggings-black</s:tag>
+    <s:tag>recommended-axis-sports-bra-black</s:tag>
+    <s:tag>recommended-performance-v2-leggings-black</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-black</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2913165115492</id>
+      <title>XS</title>
+      <s:price currency="GBP">95.00</s:price>
+      <s:sku>TC012CBL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2913165115492</id>
+      <title>S</title>
+      <s:price currency="GBP">95.00</s:price>
+      <s:sku>TC012CBL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2913165115492</id>
+      <title>M</title>
+      <s:price currency="GBP">95.00</s:price>
+      <s:sku>TC012CBL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2913165115492</id>
+      <title>L</title>
+      <s:price currency="GBP">95.00</s:price>
+      <s:sku>TC012CBL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/4508564193363</id>
+    <published>2020-07-19T08:05:31+01:00</published>
+    <updated>2020-07-19T08:05:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/hybrid-crop-tank-black"/>
+    <title>Hybrid Crop Tank</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/BURGUNDY_PIVOT_PLEATED_SKIRT_HYBRID_TANK_ROYAL_PURPLE_AXIS_SET_FRONT.jpg?v=1600166372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Our loose-fit Hybrid Crop Tank is ideal for on-the-go or layering at the gym. With florescent neckline detailing, </span>it is crafted from lightweight, quick dry and moisture wicking fabric in 73% Polyamide, 27% Elastane.</p>
+<p><span>Model is 5'11, bust 32" and wears size small</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-to-and-from</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>colour-black</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-shape-retention</s:tag>
+    <s:tag>recommended-axis-leggings-black</s:tag>
+    <s:tag>recommended-axis-leggings-royal-purple</s:tag>
+    <s:tag>recommended-performance-v2-leggings-black</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-black</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-performance</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4508564193363</id>
+      <title>XS</title>
+      <s:price currency="GBP">70.00</s:price>
+      <s:sku>T404BL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4508564193363</id>
+      <title>S</title>
+      <s:price currency="GBP">70.00</s:price>
+      <s:sku>T404BL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4508564193363</id>
+      <title>M</title>
+      <s:price currency="GBP">70.00</s:price>
+      <s:sku>T404BL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4508564193363</id>
+      <title>L</title>
+      <s:price currency="GBP">70.00</s:price>
+      <s:sku>T404BL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/4436686700627</id>
+    <published>2020-04-29T11:57:34+01:00</published>
+    <updated>2020-04-29T11:57:34+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/technical-knit-tank-electric-blue"/>
+    <title>Technical Knit Tank</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/TECHKNITTANKEB_0091.jpg?v=1588157998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Our Technical Knit Tank is a must-have for any active wardrobe. The seamless moisture-wicking fabric features ventilation panels along the sides, front and back to ensure comfort when working out. The integrated bra support is ideal for floor-based exercises and other low intensity workouts. Made from 94% Polyamide 6% Elastane.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colour-electric-blue</s:tag>
+    <s:tag>colour-turqoise</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-excellent-coverage</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-seamless-circular-knit</s:tag>
+    <s:tag>detail-second-skin-comfort</s:tag>
+    <s:tag>detail-shape-retention</s:tag>
+    <s:tag>detail-slim-fit-and-support</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>recommended-performance-v2-capri-leggings-black</s:tag>
+    <s:tag>recommended-performance-v2-leggings-black</s:tag>
+    <s:tag>recommended-technical-knit-7-8-leggings-black</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-sale</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4436686700627</id>
+      <title>XS</title>
+      <s:price currency="GBP">25.00</s:price>
+      <s:sku>TC11EB-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4436686700627</id>
+      <title>S</title>
+      <s:price currency="GBP">25.00</s:price>
+      <s:sku>TC11EB-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4436686700627</id>
+      <title>M</title>
+      <s:price currency="GBP">25.00</s:price>
+      <s:sku>TC11EB-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4436686700627</id>
+      <title>L</title>
+      <s:price currency="GBP">25.00</s:price>
+      <s:sku>TC11EB-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/3876331421779</id>
+    <published>2019-06-21T10:27:40+01:00</published>
+    <updated>2019-06-21T10:27:40+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/kubrick-t-shirt-black"/>
+    <title>Kubrick T-Shirt Black</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/LOOK_11_3844_5fd46d98-9cb2-425d-ac1c-0166551d6d60.jpg?v=1594902798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Now available in black, the new T-shirt shape in soft touch fabric and designed for a loose, full coverage fit. The Kubrick T-shirt's lightweight feel creates a delicate drape that flatters the body. At the back, Technical taping frames the breathable mesh paneling. A great layering piece.</p>
+<p>Made from <span>93% Lyocell 7% Elastane.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>aw19</s:tag>
+    <s:tag>colour-black</s:tag>
+    <s:tag>colour-multi-colour</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>recommended-performance-7-8-leggings-black</s:tag>
+    <s:tag>recommended-performance-cross-back-sports-bra-black</s:tag>
+    <s:tag>recommended-technical-knit-7-8-leggings-dusk</s:tag>
+    <s:tag>recommended-torque-leggings-black</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-HIIT</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/3876331421779</id>
+      <title>XS</title>
+      <s:price currency="GBP">80.00</s:price>
+      <s:sku>TS001CBL-W18-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/3876331421779</id>
+      <title>S</title>
+      <s:price currency="GBP">80.00</s:price>
+      <s:sku>TS001CBL-W18-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/3876331421779</id>
+      <title>M</title>
+      <s:price currency="GBP">80.00</s:price>
+      <s:sku>TS001CBL-W18-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/3876331421779</id>
+      <title>L</title>
+      <s:price currency="GBP">80.00</s:price>
+      <s:sku>TS001CBL-W18-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/2923392630884</id>
+    <published>2019-02-27T16:37:10+00:00</published>
+    <updated>2019-02-27T16:37:10+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/technical-knit-tank-white"/>
+    <title>Technical Knit Tank</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/lucas-hugh-technical-knit-tank-white_3149.jpg?v=1562316779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            25.00 - 55.00
+            <a href="https://www.lucashugh.com/products/technical-knit-tank-white">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Technical Knit fitted tank is a must have for any workout wardrobe. The seamless moisture-wicking tank features ventilation panels along the sides and front and back chest to ensure comfort when working out. The tank additionally features a fitted, built-in bra for added support. Made from 94% Polyamide 6% Elastane.</p>
+<p class="p1">Model is 5'11¬Ω / 182cm, bust 32" / 76cm and wears size small</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-dance</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>activity-yoga-barre</s:tag>
+    <s:tag>badge-low-stock</s:tag>
+    <s:tag>colour-white</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-excellent-coverage</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-second-skin-comfort</s:tag>
+    <s:tag>detail-shape-retention</s:tag>
+    <s:tag>detail-slim-fit-and-support</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>recommended-performance-t-shirt-white</s:tag>
+    <s:tag>recommended-technical-knit-hotties-white</s:tag>
+    <s:tag>recommended-technical-knit-sleeveless-t-shirt-white</s:tag>
+    <s:tag>recommended-technical-knit-sports-bra-white</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-technical-knit</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2923392630884</id>
+      <title>XS</title>
+      <s:price currency="GBP">55.00</s:price>
+      <s:sku>TC11WH-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2923392630884</id>
+      <title>S</title>
+      <s:price currency="GBP">55.00</s:price>
+      <s:sku>TC11WH-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2923392630884</id>
+      <title>M</title>
+      <s:price currency="GBP">55.00</s:price>
+      <s:sku>TC11WH-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2923392630884</id>
+      <title>L</title>
+      <s:price currency="GBP">25.00</s:price>
+      <s:sku>TC11WH-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/2923271389284</id>
+    <published>2019-02-27T16:37:10+00:00</published>
+    <updated>2019-02-27T16:37:10+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/technical-knit-tank-black"/>
+    <title>Technical Knit Tank</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/lucas-hugh-technical-knit-tank-black_1963.jpg?v=1552664197"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            25.00 - 55.00
+            <a href="https://www.lucashugh.com/products/technical-knit-tank-black">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Technical Knit fitted tank is a must have for any workout wardrobe. The seamless moisture-wicking tank features ventilation panels along the sides and front and back chest to ensure comfort when working out. The tank additionally features a fitted, built-in bra for added support. Made from 94% Polyamide 6% Elastane.</p>
+<p>Model is 5'9, bust 32" and wears size small.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-dance</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>activity-yoga-barre</s:tag>
+    <s:tag>colour-black</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-excellent-coverage</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-second-skin-comfort</s:tag>
+    <s:tag>detail-shape-retention</s:tag>
+    <s:tag>detail-slim-fit-and-support</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>recommended-technical-knit-7-8-leggings-black</s:tag>
+    <s:tag>recommended-technical-knit-sleeveless-t-shirt-black</s:tag>
+    <s:tag>recommended-technical-knit-sports-bra-black</s:tag>
+    <s:tag>recommended-tilt-running-tank-black</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-technical-knit</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2923271389284</id>
+      <title>XS</title>
+      <s:price currency="GBP">25.00</s:price>
+      <s:sku>TC11BL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2923271389284</id>
+      <title>S</title>
+      <s:price currency="GBP">55.00</s:price>
+      <s:sku>TC11BL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2923271389284</id>
+      <title>M</title>
+      <s:price currency="GBP">55.00</s:price>
+      <s:sku>TC11BL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2923271389284</id>
+      <title>L</title>
+      <s:price currency="GBP">55.00</s:price>
+      <s:sku>TC11BL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/2923003412580</id>
+    <published>2019-02-27T15:51:23+00:00</published>
+    <updated>2019-02-27T15:51:23+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/performance-cross-back-tank-white"/>
+    <title>Performance Cross Back Tank</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/CROSS_BACK_TANK_WHITE_HALO_TRACK_PANTS_FRONT.jpg?v=1596707777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This lightweight, white fitted tank is a must-have for any wardrobe. The fine, moisture-wicking fabric, internal support at the chest and mesh insert at the small of the back ensure comfort when working out, while the slim fit, dipped hem, delicate straps and loop over cross back make it eminently wearable for any occasion. Made from 72% Polyamide 28% Elastane.</p>
+<p>Model is 5'11 / 182cm, bust 32" / 76cm and wears size small</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-dance</s:tag>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-tennis</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>activity-yoga-barre</s:tag>
+    <s:tag>colour-white</s:tag>
+    <s:tag>detail-4-way-stretch</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-pilling-resistant</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-shape-retention</s:tag>
+    <s:tag>detail-uv-protection</s:tag>
+    <s:tag>recommended-halo-track-pants-black</s:tag>
+    <s:tag>recommended-lucas-hugh-tank-white</s:tag>
+    <s:tag>recommended-performance-v2-leggings-black</s:tag>
+    <s:tag>recommended-performance-v2-leggings-marine</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-HIIT</s:tag>
+    <s:tag>type-performance</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2923003412580</id>
+      <title>XS</title>
+      <s:price currency="GBP">60.00</s:price>
+      <s:sku>TC03WH-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2923003412580</id>
+      <title>S</title>
+      <s:price currency="GBP">60.00</s:price>
+      <s:sku>TC03WH-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2923003412580</id>
+      <title>M</title>
+      <s:price currency="GBP">60.00</s:price>
+      <s:sku>TC03WH-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2923003412580</id>
+      <title>L</title>
+      <s:price currency="GBP">60.00</s:price>
+      <s:sku>TC03WH-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/2922943447140</id>
+    <published>2019-02-27T15:51:23+00:00</published>
+    <updated>2019-02-27T15:51:23+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/performance-cross-back-tank-black"/>
+    <title>Performance Cross Back Tank</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/LOOK_2_1378.jpg?v=1594906190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This lightweight, fitted tank is a must-have for any wardrobe. The fine, moisture-wicking fabric, internal support at the chest and mesh insert at the small of the back ensure comfort when working out, while the slim fit, dipped hem, delicate straps and loop over cross back make it eminently wearable for any occasion. Made from 72% Polyamide 28% Elastane.</p>
+<p>Model is 5'11 / 182cm, bust 32" / 76cm and wears size small</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-dance</s:tag>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>activity-yoga-barre</s:tag>
+    <s:tag>colour-black</s:tag>
+    <s:tag>detail-4-way-stretch</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-pilling-resistant</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-shape-retention</s:tag>
+    <s:tag>detail-uv-protection</s:tag>
+    <s:tag>recommended-lucas-hugh-tank-black</s:tag>
+    <s:tag>recommended-performance-cross-back-sports-bra-black</s:tag>
+    <s:tag>recommended-performance-t-shirt-black</s:tag>
+    <s:tag>recommended-performance-v2-leggings-black</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-performance</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2922943447140</id>
+      <title>XS</title>
+      <s:price currency="GBP">60.00</s:price>
+      <s:sku>TC03BL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2922943447140</id>
+      <title>S</title>
+      <s:price currency="GBP">60.00</s:price>
+      <s:sku>TC03BL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2922943447140</id>
+      <title>M</title>
+      <s:price currency="GBP">60.00</s:price>
+      <s:sku>TC03BL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2922943447140</id>
+      <title>L</title>
+      <s:price currency="GBP">60.00</s:price>
+      <s:sku>TC03BL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/2923095130212</id>
+    <published>2019-02-26T16:45:38+00:00</published>
+    <updated>2019-02-26T16:45:38+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/performance-t-shirt-white"/>
+    <title>Performance T-Shirt</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/lucas-hugh-performance-t-shirt-white_2336_ed65878c-8f4a-4566-bf7a-c469f1c6ae26.jpg?v=1554378179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Update your workout staples with the premium comfort of this slim-fit white t-shirt in a moisture-wicking Italian fabric. Features a v-neckline and signature reflective triangles at the back with gold reflective logo at the front chest and back neck. Made from 73% Polyamide 27% Elastane</p>
+<p>Model is 5'11 / 182cm, bust 32" / 76cm and wears size small</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-dance</s:tag>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-tennis</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>colour-white</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-pilling-resistant</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-reflective-detailing</s:tag>
+    <s:tag>detail-shape-retention</s:tag>
+    <s:tag>detail-uv-protection</s:tag>
+    <s:tag>recommended-performance-v2-leggings-black</s:tag>
+    <s:tag>recommended-racer-7-8-leggings-bronze-gild</s:tag>
+    <s:tag>recommended-technical-knit-7-8-leggings-atlantic</s:tag>
+    <s:tag>recommended-technical-knit-hotties-white</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-HIIT</s:tag>
+    <s:tag>type-performance</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2923095130212</id>
+      <title>XS</title>
+      <s:price currency="GBP">80.00</s:price>
+      <s:sku>TSC03WH-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2923095130212</id>
+      <title>S</title>
+      <s:price currency="GBP">80.00</s:price>
+      <s:sku>TSC03WH-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2923095130212</id>
+      <title>M</title>
+      <s:price currency="GBP">80.00</s:price>
+      <s:sku>TSC03WH-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2923095130212</id>
+      <title>L</title>
+      <s:price currency="GBP">80.00</s:price>
+      <s:sku>TSC03WH-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/2914102968420</id>
+    <published>2019-02-26T16:45:38+00:00</published>
+    <updated>2019-02-26T16:45:38+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/performance-t-shirt-black"/>
+    <title>Performance T-Shirt</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/BLACK_PIVOT_PLEATED_SKIRT_BLACK_PERFORMANCE_T-SHIRT_FRONT.jpg?v=1596546511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Update your workout staples with the premium comfort of this slim-fit black t-shirt in a moisture-wicking Italian fabric. Features a v-neckline and signature reflective triangles at the back with gold reflective logo at the front chest and back neck. Made from 73% Polyamide 27% Elastane.</p>
+<p>Model is 5'11 / 182cm, bust 32" / 76cm and wears size small</p>
+<meta charset="utf-8"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-dance</s:tag>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>colour-black</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-pilling-resistant</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-reflective-detailing</s:tag>
+    <s:tag>detail-shape-retention</s:tag>
+    <s:tag>detail-uv-protection</s:tag>
+    <s:tag>recommended-performance-v2-leggings-black</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-black</s:tag>
+    <s:tag>recommended-technical-knit-hotties-black</s:tag>
+    <s:tag>recommended-torque-leggings-black</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-HIIT</s:tag>
+    <s:tag>type-performance</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2914102968420</id>
+      <title>XS</title>
+      <s:price currency="GBP">80.00</s:price>
+      <s:sku>TSC03BL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2914102968420</id>
+      <title>S</title>
+      <s:price currency="GBP">80.00</s:price>
+      <s:sku>TSC03BL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2914102968420</id>
+      <title>M</title>
+      <s:price currency="GBP">80.00</s:price>
+      <s:sku>TSC03BL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2914102968420</id>
+      <title>L</title>
+      <s:price currency="GBP">80.00</s:price>
+      <s:sku>TSC03BL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/2192971792484</id>
+    <published>2019-01-08T16:56:29+00:00</published>
+    <updated>2019-01-08T16:56:29+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/technical-knit-sleeveless-t-shirt-white"/>
+    <title>Technical Knit Sleeveless T-Shirt</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/lucas-hugh-technical-knit-sleeveless-t-shirt-white_3013_bb3eaae0-6b26-4aa9-ac35-bdcadd2e3ff5.jpg?v=1554389158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            30.00 - 60.00
+            <a href="https://www.lucashugh.com/products/technical-knit-sleeveless-t-shirt-white">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Update your workout basics with the super-soft comfort of the Lucas Hugh circular knit, sleeveless t-shirt in white. </span>Built with second skin circular knit fabric, this classic sleeveless t-shirt is a foundational piece for any workout wardrobe. Made in 100% Polyamide and designed with superior ventilation.</p>
+<p><span></span>Model is 5'11 / 182cm, bust 32" / 76cm and wears size small</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-dance</s:tag>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-to-and-from</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>activity-yoga-barre</s:tag>
+    <s:tag>badge-low-stock</s:tag>
+    <s:tag>colour-white</s:tag>
+    <s:tag>detail-4-way-stretch</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-seamless-circular-knit</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>recommended-technical-knit-hotties-white</s:tag>
+    <s:tag>recommended-technical-knit-sports-bra-white</s:tag>
+    <s:tag>recommended-technical-knit-t-shirt-white</s:tag>
+    <s:tag>recommended-technical-knit-tank-white</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-technical-knit</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2192971792484</id>
+      <title>XS</title>
+      <s:price currency="GBP">30.00</s:price>
+      <s:sku>TC09WH-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2192971792484</id>
+      <title>S</title>
+      <s:price currency="GBP">60.00</s:price>
+      <s:sku>TC09WH-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2192971792484</id>
+      <title>M</title>
+      <s:price currency="GBP">60.00</s:price>
+      <s:sku>TC09WH-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2192971792484</id>
+      <title>L</title>
+      <s:price currency="GBP">30.00</s:price>
+      <s:sku>TC09WH-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/1448607088740</id>
+    <published>2018-11-20T18:12:44+00:00</published>
+    <updated>2018-11-20T18:12:44+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/technical-knit-long-sleeve-top-white"/>
+    <title>Technical Knit Long Sleeve Top</title>
+    <s:type>Tops</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/OLIVE_AXIS_LEGGINGS_WHITE_TK_LS_TOP_SIDE.jpg?v=1596707022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Tops<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Update your workout basics with the super-soft comfort of the Lucas Hugh circular knit, round neck layering long sleeve top. Without any side seams, it fits like a second skin so is perfect for all types of workouts. Fully breathable moisture wicking with pinhole panels at the waist and under the arms. Made from </span>100% Polyamide.</p>
+<p class="p1">Model is 5'11 / 182cm, bust 32" / 76cm and wears size small</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-dance</s:tag>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-to-and-from</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>activity-yoga-barre</s:tag>
+    <s:tag>colour-white</s:tag>
+    <s:tag>detail-4-way-stretch</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-seamless-circular-knit</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>recommended-carbon-crop-sweatshirt-white</s:tag>
+    <s:tag>recommended-stirrup-technical-knit-leggings-marine</s:tag>
+    <s:tag>recommended-technical-knit-adjustable-sports-bra-white</s:tag>
+    <s:tag>recommended-technical-knit-sports-bra-white</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-technical-knit</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/1448607088740</id>
+      <title>XS</title>
+      <s:price currency="GBP">60.00</s:price>
+      <s:sku>TC02WH-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/1448607088740</id>
+      <title>S</title>
+      <s:price currency="GBP">60.00</s:price>
+      <s:sku>TC02WH-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/1448607088740</id>
+      <title>M</title>
+      <s:price currency="GBP">60.00</s:price>
+      <s:sku>TC02WH-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/1448607088740</id>
+      <title>L</title>
+      <s:price currency="GBP">60.00</s:price>
+      <s:sku>TC02WH-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

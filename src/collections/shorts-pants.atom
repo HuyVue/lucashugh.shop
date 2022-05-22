@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.lucashugh.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.lucashugh.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.lucashugh.com/collections/shorts-pants.atom"/>
+  <title>LUCAS HUGH</title>
+  <updated>2021-03-03T10:39:16+00:00</updated>
+  <author>
+    <name>LUCAS HUGH</name>
+  </author>
+  <entry>
+    <id>https://www.lucashugh.com/products/2644284047460</id>
+    <published>2021-03-03T10:39:16+00:00</published>
+    <updated>2021-03-03T10:39:16+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/technical-knit-hotties-white"/>
+    <title>Technical Knit Hotties</title>
+    <s:type>Shorts and Pants</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/TECH_KNIT_HOTTIES_WHITE_1598_7fcfb4eb-f766-4955-87d5-5940e25003d8.jpg?v=1611828312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Shorts and Pants<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Our high-waisted seamless technical knit hottie shorts in white are sustainably made in Europe with Qnova recycled yarns. </span><span>These shorts are super comfortable with a knitted waistband, built in seamless brief and soft knitted leg. They are quick dry, moisture wicking and great for all types of sport from yoga to running. Made from 91% recycled Qnova Polyamide, 9% Elastane.</span></p>
+<p>Model is 5'10, waist 24" and wears size small.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-dance</s:tag>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-tennis</s:tag>
+    <s:tag>activity-yoga-barre</s:tag>
+    <s:tag>badge-sustainable</s:tag>
+    <s:tag>colour-white</s:tag>
+    <s:tag>detail-4-way-stretch</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-ecosystem</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-seamless-circular-knit</s:tag>
+    <s:tag>detail-second-skin-comfort</s:tag>
+    <s:tag>detail-slim-fit</s:tag>
+    <s:tag>detail-slim-fit-and-support</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>new-in</s:tag>
+    <s:tag>recommended-technical-knit-hotties-black</s:tag>
+    <s:tag>recommended-technical-knit-sleeveless-t-shirt-white</s:tag>
+    <s:tag>recommended-technical-knit-sports-bra-white</s:tag>
+    <s:tag>recommended-tilt-running-tank-white</s:tag>
+    <s:tag>size-m/l</s:tag>
+    <s:tag>size-xs/s</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>SS19</s:tag>
+    <s:tag>type-shorts-and-pants</s:tag>
+    <s:tag>type-technical-knit</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2644284047460</id>
+      <title>XS/S</title>
+      <s:price currency="GBP">60.00</s:price>
+      <s:sku>SHC02WH-XS/S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2644284047460</id>
+      <title>M/L</title>
+      <s:price currency="GBP">60.00</s:price>
+      <s:sku>SHC02WH-M/L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/2207288197220</id>
+    <published>2021-03-03T10:39:11+00:00</published>
+    <updated>2021-03-03T10:39:11+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/technical-knit-hotties-black"/>
+    <title>Technical Knit Hotties</title>
+    <s:type>Shorts and Pants</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/TECH_KNIT_HOTTIES_BLACK_1555_4ed1d1e0-4189-4a7b-8aa5-7e984f3bcb32.jpg?v=1611758626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Shorts and Pants<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Our high-waisted seamless technical knit hottie shorts in black are sustainably made in Europe with Qnova recycled yarns. </span>These shorts are super comfortable with a knitted waistband, built in seamless brief and soft knitted leg. They are quick dry, moisture wicking and great for all types of sport from yoga to running. Made from 91% recycled Qnova Polyamide, 9% Elastane.</p>
+<p class="p1">Model is 5'11 / 182cm, waist 24 / 61cm, hips 34 / 86cm and wears size small</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-dance</s:tag>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>activity-yoga-barre</s:tag>
+    <s:tag>badge-sustainable</s:tag>
+    <s:tag>colour-black</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-ecosystem</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-seamless-circular-knit</s:tag>
+    <s:tag>detail-second-skin-comfort</s:tag>
+    <s:tag>detail-slim-fit</s:tag>
+    <s:tag>detail-slim-fit-and-support</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>new-in</s:tag>
+    <s:tag>recommended-technical-knit-7-8-leggings-black</s:tag>
+    <s:tag>recommended-technical-knit-hotties-white</s:tag>
+    <s:tag>recommended-technical-knit-sports-bra-black</s:tag>
+    <s:tag>recommended-technical-knit-sports-bra-white</s:tag>
+    <s:tag>size-m/l</s:tag>
+    <s:tag>size-xs/s</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>SS19</s:tag>
+    <s:tag>type-shorts-and-pants</s:tag>
+    <s:tag>type-technical-knit</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2207288197220</id>
+      <title>XS/S</title>
+      <s:price currency="GBP">60.00</s:price>
+      <s:sku>SHC02BL-XS/S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2207288197220</id>
+      <title>M/L</title>
+      <s:price currency="GBP">60.00</s:price>
+      <s:sku>SHC02BL-M/L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

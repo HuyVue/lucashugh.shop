@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.lucashugh.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.lucashugh.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.lucashugh.com/collections/outerwear.atom"/>
+  <title>LUCAS HUGH</title>
+  <updated>2021-05-26T20:10:31+01:00</updated>
+  <author>
+    <name>LUCAS HUGH</name>
+  </author>
+  <entry>
+    <id>https://www.lucashugh.com/products/6549818310739</id>
+    <published>2021-05-26T20:10:31+01:00</published>
+    <updated>2021-05-26T20:10:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/mini-pivot-skirt"/>
+    <title>Mini Pivot Skirt</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/TECH_KNIT_MINI_PIVOT_02370.jpg?v=1623418587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Mini Pivot skirt is the perfect light-weight summer cover-up designed to be worn over our technical knit hotties, long leggings or one piece either at the gym or to take you to and from.  Available in limited numbers the Mini<span> </span>Pivot Skirt is a<span> </span>short mesh layering skirt, with a drawstring waistband to secure your perfect fit.  MAIN: 100% Polyester</p>
+<p>Model is 5'10 / 182cm, waist 24” / 61cm, hips 34” / 86cm</p>
+<p>The Mini Pivot skirt may re-shape when wet, should be hung when storing and drying.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-dance</s:tag>
+    <s:tag>activity-to-and-from</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>activity-yoga-barre</s:tag>
+    <s:tag>badge-limited-edition</s:tag>
+    <s:tag>colour-black</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>feature-mesh</s:tag>
+    <s:tag>new-in</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-black</s:tag>
+    <s:tag>recommended-technical-knit-hotties-black</s:tag>
+    <s:tag>recommended-technical-knit-leggings-black</s:tag>
+    <s:tag>recommended-technical-knit-sports-bra-black</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-m/l</s:tag>
+    <s:tag>size-one-size</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>size-xs/s</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-outerwear</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6549818310739</id>
+      <title>XS/S</title>
+      <s:price currency="GBP">130.00</s:price>
+      <s:sku>SK002CBL-XS/S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6549818310739</id>
+      <title>M/L</title>
+      <s:price currency="GBP">130.00</s:price>
+      <s:sku>SK002CBL-M/L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/4733729734739</id>
+    <published>2021-04-23T11:42:10+01:00</published>
+    <updated>2021-04-23T11:42:10+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/technical-jumper-summer-weight-black"/>
+    <title>Technical Jumper Summer Weight</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/AXIS_BLACK_SET_TECHNICAL_JACKET_WW_985.jpg?v=1645194846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><meta charset="utf-8">The Technical Jumper is the perfect layer for all outdoor exercise, or as a light weight layer to take you to and from the gym. The jumper is moisture wicking, quick-drying and breathable with stretch. High visibility piping outlines mesh ventilation panels at the shoulder and under the arm which maintain air flow. Adjust the hem toggle for a straight or bagged over hem. Key pocket at the back.<br><br>The Technical Jumper is a sustainably made, trans-seasonal layering item made from 79</span>% Recycled Polyamide, 21% Elastane</p>
+<p><span>Model is 5'11/ 182cm, bust 32" / 76cm and wears size small<br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-to-and-from</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>badge-sustainable</s:tag>
+    <s:tag>colour-black</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-concealed-pockets</s:tag>
+    <s:tag>detail-ecosystem</s:tag>
+    <s:tag>detail-high-visibility</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-thermo-regulating</s:tag>
+    <s:tag>new-in</s:tag>
+    <s:tag>recommended-axis-leggings-black</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-black</s:tag>
+    <s:tag>recommended-technical-jumper-summer-weight-midnight</s:tag>
+    <s:tag>recommended-technical-knit-leggings-black</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>sustainable</s:tag>
+    <s:tag>type-outerwear</s:tag>
+    <s:tag>type-performance</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4733729734739</id>
+      <title>XS</title>
+      <s:price currency="GBP">180.00</s:price>
+      <s:sku>JK002CBL-SW-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4733729734739</id>
+      <title>S</title>
+      <s:price currency="GBP">180.00</s:price>
+      <s:sku>JK002CBL-SW-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4733729734739</id>
+      <title>M</title>
+      <s:price currency="GBP">180.00</s:price>
+      <s:sku>JK002CBL-SW-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4733729734739</id>
+      <title>L</title>
+      <s:price currency="GBP">180.00</s:price>
+      <s:sku>JK002CBL-SW-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/4743039352915</id>
+    <published>2021-03-29T12:51:52+01:00</published>
+    <updated>2021-03-29T12:51:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/technical-jumper-summer-weight-midnight"/>
+    <title>Technical Jumper Summer Weight</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/AXIS_SET_MARINE_MIDNIGHT_TECHNICAL_JACKET_729.jpg?v=1614167399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            180.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span><meta charset="utf-8">The Technical Jumper is the perfect layer for all outdoor exercise, or as a light weight layer to take you to and from the gym. The jumper is moisture wicking, quick-drying and breathable with stretch. High visibility piping outline mesh ventilation panels at the shoulder and under the arm which maintain air flow. Adjust the hem toggle for a straight or bagged over hem. Key pocket at the back.<br><br>The Technical Jumper is a sustainably made, trans-seasonal layering item made from 79</span>% Recycled Polyamide, 21% Elastane</p>
+<p><span>Model is 5'11/ 182cm, bust 32" / 76cm and wears size small<br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-to-and-from</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>badge-sustainable</s:tag>
+    <s:tag>colour-midnight</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-concealed-pockets</s:tag>
+    <s:tag>detail-ecosystem</s:tag>
+    <s:tag>detail-high-visibility</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-thermo-regulating</s:tag>
+    <s:tag>new-in</s:tag>
+    <s:tag>recommended-axis-leggings-marine</s:tag>
+    <s:tag>recommended-axis-sports-bra-marine</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-midnight</s:tag>
+    <s:tag>recommended-stealth-one-piece-midnight</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-outerwear</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4743039352915</id>
+      <title>XS</title>
+      <s:price currency="GBP">180.00</s:price>
+      <s:sku>JK002CMD-SW-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4743039352915</id>
+      <title>S</title>
+      <s:price currency="GBP">180.00</s:price>
+      <s:sku>JK002CMD-SW-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4743039352915</id>
+      <title>M</title>
+      <s:price currency="GBP">180.00</s:price>
+      <s:sku>JK002CMD-SW-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4743039352915</id>
+      <title>L</title>
+      <s:price currency="GBP">180.00</s:price>
+      <s:sku>JK002CMD-SW-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/4733729964115</id>
+    <published>2021-03-23T05:57:17+00:00</published>
+    <updated>2021-03-23T05:57:17+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/technical-jumper-winter-weight-black"/>
+    <title>Technical Jumper Winter Weight</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/AXIS_BLACK_SET_TECHNICAL_JACKET_WW_973.jpg?v=1614164060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>The Technical Jumper is the perfect layer for outdoor running or cycling in cooler months. The jumper has a fleece lining and wind shield exterior whilst moisture wicking and thermo regulating. High visibility piping outlines mesh ventilation panels at the shoulder and under the arm which maintain air flow. Adjust the hem toggle for a straight or bagged over hem. Key pocket at the back.<br><br>The Technical Jumper is a premium trans-seasonal layering item made from 50</span>% Polyester, 42% Polyamide 8% Elastane</p>
+<p><span>Model is 5'11 / 182cm, bust 32" / 76cm and wears size small<br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-to-and-from</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>badge-limited-edition</s:tag>
+    <s:tag>colour-black</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-concealed-pockets</s:tag>
+    <s:tag>detail-high-visibility</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-thermo-regulating</s:tag>
+    <s:tag>new-in</s:tag>
+    <s:tag>recommended-axis-leggings-black</s:tag>
+    <s:tag>recommended-axis-leggings-black-forest</s:tag>
+    <s:tag>recommended-axis-leggings-garnet</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-black</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-outerwear</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4733729964115</id>
+      <title>XS</title>
+      <s:price currency="GBP">195.00</s:price>
+      <s:sku>JK002CBL-WW-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4733729964115</id>
+      <title>S</title>
+      <s:price currency="GBP">195.00</s:price>
+      <s:sku>JK002CBL-WW-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4733729964115</id>
+      <title>M</title>
+      <s:price currency="GBP">195.00</s:price>
+      <s:sku>JK002CBL-WW-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4733729964115</id>
+      <title>L</title>
+      <s:price currency="GBP">195.00</s:price>
+      <s:sku>JK002CBL-WW-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/2127789457508</id>
+    <published>2021-01-31T15:49:38+00:00</published>
+    <updated>2021-01-31T15:49:38+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/pivot-pleated-skirt-black"/>
+    <title>Pivot Pleated Skirt</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/STEALTH_SET_BLACK_02044.jpg?v=1623418746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PROMOTION EXCLUSION</p>
+<p>This style is a Lucas Hugh exclusive. Make moves in the Pivot Skirt, a midi-length mesh layering skirt, with a drawstring waistband to secure your perfect fit, pockets and front slits for movement. Designed to be worn over leggings to transition your look from gym to cafe. MAIN: 100% Polyester</p>
+<p>Model is 5'11 / 182cm, waist 24” / 61cm, hips 34” / 86cm</p>
+<p>The Pivot skirt may re-shape when wet, should be hung when storing and drying.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-dance</s:tag>
+    <s:tag>activity-to-and-from</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>activity-yoga-barre</s:tag>
+    <s:tag>badge-limited-edition</s:tag>
+    <s:tag>colour-black</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>feature-mesh</s:tag>
+    <s:tag>new-in</s:tag>
+    <s:tag>recommended-axis-leggings-burnt-orange</s:tag>
+    <s:tag>recommended-performance-t-shirt-black</s:tag>
+    <s:tag>recommended-performance-v2-capri-leggings-black</s:tag>
+    <s:tag>recommended-performance-v2-leggings-black</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-m/l</s:tag>
+    <s:tag>size-one-size</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>size-xs/s</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-outerwear</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2127789457508</id>
+      <title>XS/S</title>
+      <s:price currency="GBP">135.00</s:price>
+      <s:sku>SK001CBL-XS/S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2127789457508</id>
+      <title>M/L</title>
+      <s:price currency="GBP">135.00</s:price>
+      <s:sku>SK001CBL-M/L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/4504832573523</id>
+    <published>2020-10-01T09:12:21+01:00</published>
+    <updated>2020-10-01T09:12:21+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/pivot-pleated-skirt-midnight"/>
+    <title>Pivot Pleated Skirt</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/AXIS_SET_MARINE_567_c682004c-9659-450c-88d3-687f16111cf6.jpg?v=1627556376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Now available in Midnight, this style is a Lucas Hugh exclusive. A midi-length mesh layering skirt, with a drawstring waistband to secure your perfect fit, pockets and front slits for movement. Designed to be worn over leggings to transition your look from gym to cafe. MAIN: 100% Polyester</p>
+<meta charset="utf-8">
+<p><span>Model is 5'11 / 182cm, waist 24” / 61cm, hips 35” / 89cm</span></p>
+<p>The Pivot skirt may re-shape when wet, should be hung when storing and drying.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-dance</s:tag>
+    <s:tag>activity-to-and-from</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>activity-yoga-barre</s:tag>
+    <s:tag>badge-limited-edition</s:tag>
+    <s:tag>colour-midnight</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>feature-mesh</s:tag>
+    <s:tag>recommended-stealth-leggings-midnight</s:tag>
+    <s:tag>recommended-stealth-one-piece-midnight</s:tag>
+    <s:tag>recommended-stealth-sports-bra-midnight</s:tag>
+    <s:tag>recommended-technical-jumper-summer-weight-midnight</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-m/l</s:tag>
+    <s:tag>size-one-size</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>size-xs/s</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>tag-pivot-pleated-skirt</s:tag>
+    <s:tag>type-outerwear</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4504832573523</id>
+      <title>XS/S</title>
+      <s:price currency="GBP">135.00</s:price>
+      <s:sku>SK001CMD-XS/S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4504832573523</id>
+      <title>M/L</title>
+      <s:price currency="GBP">135.00</s:price>
+      <s:sku>SK001CMD-M/L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/4504832475219</id>
+    <published>2020-09-01T18:39:27+01:00</published>
+    <updated>2020-09-01T18:39:27+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/pivot-pleated-skirt-burgundy"/>
+    <title>Pivot Pleated Skirt</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/AXIS_SET_GARNET_414_0c26166b-1e74-47b7-984f-42be88d47d8d.jpg?v=1612520006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Now available in Burgundy, this style is a Lucas Hugh exclusive. A midi-length mesh layering skirt, with a drawstring waistband to secure your perfect fit, pockets and front slits for movement. Designed to be worn over leggings to transition your look from gym to cafe. MAIN: 100% Polyester</p>
+<meta charset="utf-8">
+<p><span>Model is 5'11 / 182cm, waist 24” / 61cm, hips 35” / 89cm</span></p>
+<p>The Pivot skirt may re-shape when wet, should be hung when storing and drying.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-dance</s:tag>
+    <s:tag>activity-to-and-from</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>activity-yoga-barre</s:tag>
+    <s:tag>badge-limited-edition</s:tag>
+    <s:tag>colour-burgundy</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>feature-mesh</s:tag>
+    <s:tag>new-in</s:tag>
+    <s:tag>recommended-axis-leggings-garnet</s:tag>
+    <s:tag>recommended-axis-leggings-mahogany</s:tag>
+    <s:tag>recommended-axis-sports-bra-mahogany</s:tag>
+    <s:tag>recommended-technical-knit-sleeveless-t-shirt-maroon</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-m/l</s:tag>
+    <s:tag>size-one-size</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>size-xs/s</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-outerwear</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4504832475219</id>
+      <title>XS/S</title>
+      <s:price currency="GBP">135.00</s:price>
+      <s:sku>SK001CBUR-XS/S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4504832475219</id>
+      <title>M/L</title>
+      <s:price currency="GBP">135.00</s:price>
+      <s:sku>SK001CBUR-M/L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/2569673998436</id>
+    <published>2019-01-24T16:48:00+00:00</published>
+    <updated>2019-01-24T16:48:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/satin-bomber-jacket-jockey-blue"/>
+    <title>Satin Bomber Jacket</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/MIDNIGHT_AXIS_SET_SATIN_BOMBER_JACKET_BACK.jpg?v=1601542200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Satin Bomber Jacket is the ultimate transitional style, made from luxurious and eye catching performance stretch satin fabric. Inspired by the satin silks used in Boxing and Jockey uniforms, this jacket merges the classic bomber look with high performance detailing. Features reflective back strips for visibility and elasticated hem and sleeves for comfort. Main Satin: 87% Polyamide, 13% Elastane. Matte: 59% Polyamide, 41% Elastane.</p>
+<p>Model is 5'10, waist 24" and wears size small</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-to-and-from</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>colour-blue</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-reflective-detailing</s:tag>
+    <s:tag>recommended-axis-leggings-midnight</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-midnight</s:tag>
+    <s:tag>recommended-satin-one-piece-jockey-blue</s:tag>
+    <s:tag>recommended-satin-short-jockey-blue</s:tag>
+    <s:tag>satin</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>SS19</s:tag>
+    <s:tag>type-outerwear</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2569673998436</id>
+      <title>XS</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>JK005CJB-S19-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2569673998436</id>
+      <title>S</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>JK005CJB-S19-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2569673998436</id>
+      <title>M</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>JK005CJB-S19-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2569673998436</id>
+      <title>L</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>JK005CJB-S19-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/1497361252452</id>
+    <published>2018-11-24T14:15:34+00:00</published>
+    <updated>2018-11-24T14:15:34+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/halo-track-pants-black"/>
+    <title>Halo Track Pants Black</title>
+    <s:type>Outerwear</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/META_BODYSUIT_WHITE_HALO_TRACK_PANTS_FRONT.jpg?v=1596545233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Outerwear<br>
+        <strong>Price: </strong>
+            155.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Ideal for on the move the Black Halo Sport Pants are crafted from a merino wool blend to ensure warmth on cooler days. The pants boast an elasticated waistband for comfort and a zip-close pocked embedded in the back yoke. Made from </span>59% Viscose, 39% Merino Wool, 2% Elastane, making them the perfect travel track pant.</p>
+<p>Model is 5'11 / 182cm, Waist 24'' / 61cm, Hips 34'' / 86cm and wear size small</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-to-and-from</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>colour-black</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-machine-washable</s:tag>
+    <s:tag>detail-pilling-resistant</s:tag>
+    <s:tag>detail-smart-wool</s:tag>
+    <s:tag>detail-thermo-regulating</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>outerwear</s:tag>
+    <s:tag>recommended-carbon-crop-sweatshirt-black</s:tag>
+    <s:tag>recommended-halo-hooded-sweatshirt-black</s:tag>
+    <s:tag>recommended-performance-cross-back-sports-bra-black</s:tag>
+    <s:tag>recommended-slate-trackpant-black</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-outerwear</s:tag>
+    <s:tag>type-shorts-and-pants</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/1497361252452</id>
+      <title>XS</title>
+      <s:price currency="GBP">155.00</s:price>
+      <s:sku>LL302BL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/1497361252452</id>
+      <title>S</title>
+      <s:price currency="GBP">155.00</s:price>
+      <s:sku>LL302BL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/1497361252452</id>
+      <title>M</title>
+      <s:price currency="GBP">155.00</s:price>
+      <s:sku>LL302BL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/1497361252452</id>
+      <title>L</title>
+      <s:price currency="GBP">155.00</s:price>
+      <s:sku>LL302BL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

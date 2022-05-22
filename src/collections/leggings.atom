@@ -1,0 +1,1614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.lucashugh.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.lucashugh.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.lucashugh.com/collections/leggings.atom"/>
+  <title>LUCAS HUGH</title>
+  <updated>2021-09-09T11:14:29+01:00</updated>
+  <author>
+    <name>LUCAS HUGH</name>
+  </author>
+  <entry>
+    <id>https://www.lucashugh.com/products/4380171534419</id>
+    <published>2021-09-09T11:14:29+01:00</published>
+    <updated>2021-09-09T11:14:29+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/axis-leggings-mahogany"/>
+    <title>Axis Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/AXIS_SET_MAHOGANY_02824_84455302-1332-4d17-b498-66dbc54b9cbb.jpg?v=1631183052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>The mahogany colour is back. A full-length performance legging crafted from compressive fabric and finished with bonded seams and hem. </span><span>The Axis leggings are inspired by the bound detailing of boxing wrap and feature contrasting matte and gloss lines that complement the compressive nature of the performance fabric. The high-rise bonded Svelte waistband features wrap paneling and reflective chevron details for visibility on your next run.¬†</span></p>
+<p><span>Model is 5'11, waist 24" and wears size small.</span></p>
+<p><span>Main:¬†59% Polyamide 41% Elastane, Gloss: 79% Polyamide 21% Elastane, Mesh: 71% Polyamide 29% Elastane.</span></p>
+<meta charset="utf-8">
+<p><span>Inner leg measurements: XS 68.5cm / S 69cm / M 69.5cm / L 70cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>badge-limited-edition</s:tag>
+    <s:tag>colour-mahogany</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-compression</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-reflective-detailing</s:tag>
+    <s:tag>detail-slim-fit-and-support</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>mahogany</s:tag>
+    <s:tag>new-in</s:tag>
+    <s:tag>recommended-axis-crop-tank-mahogany</s:tag>
+    <s:tag>recommended-axis-sports-bra-mahogany</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-black</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-burgundy</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>ss20</s:tag>
+    <s:tag>type-leggings</s:tag>
+    <s:tag>type-performance</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4380171534419</id>
+      <title>XS</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CMH-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4380171534419</id>
+      <title>S</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CMH-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4380171534419</id>
+      <title>M</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CMH-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4380171534419</id>
+      <title>L</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CMH-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/4507227947091</id>
+    <published>2021-08-11T07:41:50+01:00</published>
+    <updated>2021-08-11T07:41:50+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/axis-leggings-burnt-orange"/>
+    <title>Axis Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/AXIS_SET_BURNT_ORANGE_02681.jpg?v=1628615537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This signature full-length performance legging is crafted from compressive fabric and finished with bonded seams and hem. </span>The Axis leggings are inspired by the bound detailing of boxing wrap and feature contrasting matte and gloss lines that complement the compressive nature of the performance fabric. The high-rise bonded Svelte waistband features wrap paneling and reflective chevron details for visibility on your next run. </p>
+<p><span>Model is 5'11, waist 24" and wears size small.</span></p>
+<p><span>Main: 59% Polyamide 41% Elastane, Gloss: 79% Polyamide 21% Elastane, Mesh: 71% Polyamide 29% Elastane.</span></p>
+<meta charset="utf-8">
+<p><span>Inner leg measurements: XS 68.5cm / S 69cm / M 69.5cm / L 70cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>badge-limited-edition</s:tag>
+    <s:tag>colour-black</s:tag>
+    <s:tag>colour-burnt-orange</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-compression</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-reflective-detailing</s:tag>
+    <s:tag>detail-slim-fit-and-support</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>new-in</s:tag>
+    <s:tag>recommended-axis-crop-tank-burnt-orange</s:tag>
+    <s:tag>recommended-axis-sports-bra-burnt-orange</s:tag>
+    <s:tag>recommended-mini-pivot-skirt</s:tag>
+    <s:tag>recommended-technical-jumper-summer-weight-black</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-leggings</s:tag>
+    <s:tag>type-performance</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4507227947091</id>
+      <title>XS</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CBO-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4507227947091</id>
+      <title>S</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CBO-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4507227947091</id>
+      <title>M</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CBO-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4507227947091</id>
+      <title>L</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CBO-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/6562728542291</id>
+    <published>2021-07-29T11:48:35+01:00</published>
+    <updated>2021-07-29T11:48:35+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/stealth-leggings-midnight"/>
+    <title>Stealth Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/STEALTH_SET_MIDNIGHT_01491.jpg?v=1627556502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">The Stealth leggings are our new luxuriously soft, high performance yet understated leggings with minimal detailing and logos. The technology is all in this new sustainable material, and signature svelte waistband which feels super-soft to wear, yet supportive in all the right places.  These have been designed for women who are after high-performance with integrated technology - you can feel.  High visibility chevrons at the back waist band, mesh lower leg including a triangular cut hem detail and no back zip-pocket for stretching comfort.  </p>
+<p data-mce-fragment="1">Sustainable fabrics are made in Italy </p>
+<p data-mce-fragment="1">Garment engineered in Portugal with heat sealed seams</p>
+<p data-mce-fragment="1">Model is 5'10, waist 24" and wears size small.<br data-mce-fragment="1"><span data-mce-fragment="1"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Main: 65% Recycled Polyamide/35% Elastane</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Inner leg length measurements: XS 68.5cm / S 69cm / M </span>69.5cm / L 70cm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>badge-limited-edition</s:tag>
+    <s:tag>colour-midnight</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-compression</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-reflective-detailing</s:tag>
+    <s:tag>detail-slim-fit-and-support</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>new-in</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-midnight</s:tag>
+    <s:tag>recommended-stealth-one-piece-midnight</s:tag>
+    <s:tag>recommended-stealth-sports-bra-midnight</s:tag>
+    <s:tag>recommended-technical-jumper-summer-weight-midnight</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-leggings</s:tag>
+    <s:tag>type-performance</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6562728542291</id>
+      <title>XS</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL038CMD-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6562728542291</id>
+      <title>S</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL038CMD-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6562728542291</id>
+      <title>M</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL038CMD-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6562728542291</id>
+      <title>L</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL038CMD-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/6562728673363</id>
+    <published>2021-07-08T10:38:16+01:00</published>
+    <updated>2021-07-08T10:38:16+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/stealth-leggings-olive"/>
+    <title>Stealth Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/STEALTH_SET_OLIVE_01202.jpg?v=1622664784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">The Stealth leggings are our new luxuriously soft, high performance yet understated leggings with minimal detailing and logos. The technology is all in this new sustainable material, and signature svelte waistband which feels super-soft to wear, yet supportive in all the right places.  These have been designed for women who are after high-performance with integrated technology - you can feel.  High visibility chevrons at the back waist band, mesh lower leg including a triangular cut hem detail and no back zip-pocket for stretching comfort.  </p>
+<p data-mce-fragment="1">Sustainable fabrics are made in Italy </p>
+<p data-mce-fragment="1">Garment engineered in Portugal with heat sealed seams</p>
+<p data-mce-fragment="1">Model is 5'10, waist 24" and wears size small.<br data-mce-fragment="1"><span data-mce-fragment="1"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Main: 65% Recycled Polyamide/35% Elastane</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Inner leg length measurements: XS 68.5cm / S 69cm / M </span>69.5cm / L 70cm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>badge-limited-edition</s:tag>
+    <s:tag>badge-sustainable</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>colour-olive</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-compression</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-reflective-detailing</s:tag>
+    <s:tag>detail-slim-fit-and-support</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>new-in</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-black</s:tag>
+    <s:tag>recommended-stealth-one-piece-olive</s:tag>
+    <s:tag>recommended-stealth-sports-bra-olive</s:tag>
+    <s:tag>recommended-technical-jumper-summer-weight-midnight</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>sustainable</s:tag>
+    <s:tag>type-leggings</s:tag>
+    <s:tag>type-performance</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6562728673363</id>
+      <title>XS</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL038COL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6562728673363</id>
+      <title>S</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL038COL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6562728673363</id>
+      <title>M</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL038COL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6562728673363</id>
+      <title>L</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL038COL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/6562728902739</id>
+    <published>2021-06-17T10:58:55+01:00</published>
+    <updated>2021-06-17T10:58:55+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/stealth-leggings-red"/>
+    <title>Stealth Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/STEALTH_SET_RED_00856.jpg?v=1622664877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">The Stealth leggings are our new luxuriously soft, high performance yet understated leggings with minimal detailing and logos. The technology is all in this new sustainable material, and signature svelte waistband which feels super-soft to wear, yet supportive in all the right places.  These have been designed for women who are after high-performance with integrated technology - you can feel.  High visibility chevrons at the back waist band, mesh lower leg including a triangular cut hem detail and no back zip-pocket for stretching comfort.  </p>
+<p data-mce-fragment="1">Sustainable fabrics are made in Italy </p>
+<p data-mce-fragment="1">Garment engineered in Portugal with heat sealed seams</p>
+<p data-mce-fragment="1">Model is 5'10, waist 24" and wears size small.<br data-mce-fragment="1"><span data-mce-fragment="1"></span></p>
+<p data-mce-fragment="1">If you are between sizes, size up. </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Main: 65% Recycled Polyamide/35% Elastane</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Inner leg length measurements: XS 68.5cm / S 69cm / M </span>69.5cm / L 70cm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>badge-limited-edition</s:tag>
+    <s:tag>badge-sustainable</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>colour-red</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-compression</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-reflective-detailing</s:tag>
+    <s:tag>detail-slim-fit-and-support</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>new-in</s:tag>
+    <s:tag>recommended-axis-crop-tank-black</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-burgundy</s:tag>
+    <s:tag>recommended-stealth-one-piece-black</s:tag>
+    <s:tag>recommended-stealth-sports-bra-red</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>sustainable</s:tag>
+    <s:tag>type-leggings</s:tag>
+    <s:tag>type-performance</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6562728902739</id>
+      <title>XS</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL038CRE-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6562728902739</id>
+      <title>S</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL038CRE-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6562728902739</id>
+      <title>M</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL038CRE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6562728902739</id>
+      <title>L</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL038CRE-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/6562728378451</id>
+    <published>2021-06-11T10:18:51+01:00</published>
+    <updated>2021-06-11T10:18:51+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/stealth-leggings-black"/>
+    <title>Stealth Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/STEALTH_SET_BLACK_01833.jpg?v=1622664579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">The Stealth leggings are our new luxuriously soft, high performance yet understated leggings with minimal detailing and logos. The technology is all in this new sustainable material, and signature svelte waistband which feels super-soft to wear, yet supportive in all the right places.  These have been designed for women who are after high-performance with integrated technology - you can feel.  High visibility chevrons at the back waist band, mesh lower leg including a triangular cut hem detail and no back zip-pocket for stretching comfort.  </p>
+<p data-mce-fragment="1">Sustainable fabrics are made in Italy </p>
+<p data-mce-fragment="1">Garment engineered in Portugal with heat sealed seams</p>
+<p data-mce-fragment="1">Model is 5'10, waist 24" and wears size small.<br data-mce-fragment="1"><span data-mce-fragment="1"></span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Main: 65% Recycled Polyamide/35% Elastane</span></p>
+<meta charset="utf-8"><span data-mce-fragment="1"></span>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Inner leg length measurements: XS 68.5cm / S 69cm / M </span>69.5cm / L 70cm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>badge-limited-edition</s:tag>
+    <s:tag>badge-sustainable</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>colour-black</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-compression</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-reflective-detailing</s:tag>
+    <s:tag>detail-slim-fit-and-support</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>new-in</s:tag>
+    <s:tag>recommended-axis-crop-tank-black</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-black</s:tag>
+    <s:tag>recommended-stealth-sports-bra-black</s:tag>
+    <s:tag>recommended-technical-jumper-summer-weight-black</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>sustainable</s:tag>
+    <s:tag>type-leggings</s:tag>
+    <s:tag>type-performance</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6562728378451</id>
+      <title>XS</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL038CBL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6562728378451</id>
+      <title>S</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL038CBL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6562728378451</id>
+      <title>M</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL038CBL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/6562728378451</id>
+      <title>L</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL038CBL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/4730113130579</id>
+    <published>2021-03-26T14:57:44+00:00</published>
+    <updated>2021-03-26T14:57:44+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/axis-leggings-marine"/>
+    <title>Axis Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/AXIS_SET_MARINE_539.jpg?v=1627045771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span></span><span>This signature full-length performance legging is crafted from compressive fabric and finished with bonded seams and hem. </span>The Axis leggings are inspired by the bound detailing of boxing wrap and feature contrasting matte and gloss lines that complement the compressive nature of the performance fabric. The high-rise bonded Svelte waistband features wrap paneling and reflective chevron details for visibility on your next run. </p>
+<p><span>Model is 5'10, waist 24" and wears size small.</span></p>
+<p><span>Main: 59% Polyamide 41% Elastane, Gloss: 79% Polyamide 21% Elastane, Mesh: 71% Polyamide 29% Elastane.</span></p>
+<meta charset="utf-8">
+<p><span>Inner leg measurements: XS 68.5cm / S 69cm / M 69.5cm / L 70cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>badge-limited-edition</s:tag>
+    <s:tag>colour-marine</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-compression</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-reflective-detailing</s:tag>
+    <s:tag>detail-slim-fit-and-support</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>new-in</s:tag>
+    <s:tag>recommended-axis-crop-tank-black</s:tag>
+    <s:tag>recommended-axis-sports-bra-marine</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-black</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-midnight</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-leggings</s:tag>
+    <s:tag>type-performance</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4730113130579</id>
+      <title>XS</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CMA-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4730113130579</id>
+      <title>S</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CMA-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4730113130579</id>
+      <title>M</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CMA-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4730113130579</id>
+      <title>L</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CMA-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/1671374045284</id>
+    <published>2021-03-21T05:50:00+00:00</published>
+    <updated>2021-03-21T05:50:00+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/axis-leggings-black"/>
+    <title>Axis Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/AXIS_SET_BLACK_02862.jpg?v=1623417135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span></span><span>PROMOTION EXCLUSION </span></p>
+<p><span>This signature full-length performance legging is crafted from compressive fabric and finished with bonded seams and hem. </span>The Axis leggings are inspired by the bound detailing of boxing wrap and feature contrasting matte and gloss lines that complement the compressive nature of the performance fabric. The high-rise bonded Svelte waistband features wrap paneling and reflective chevron details for visibility on your next run.</p>
+<p><span>Model is 5'10, waist 24" and wears size small.</span></p>
+<p><span>Main: 59% Polyamide 41% Elastane, Gloss: 79% Polyamide 21% Elastane, Mesh: 71% Polyamide 29% Elastane.</span></p>
+<meta charset="utf-8">
+<p><span>Inner leg measurements: XS 68.5cm / S 69cm / M </span>69.5cm / L 70cm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>badge-limited-edition</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>colour-black</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-compression</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-reflective-detailing</s:tag>
+    <s:tag>detail-slim-fit-and-support</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>recommended-axis-crop-tank-black</s:tag>
+    <s:tag>recommended-axis-sports-bra-black</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-black</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-midnight</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-leggings</s:tag>
+    <s:tag>type-performance</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/1671374045284</id>
+      <title>XS</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CBL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/1671374045284</id>
+      <title>S</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CBL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/1671374045284</id>
+      <title>M</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CBL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/1671374045284</id>
+      <title>L</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CBL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/4730110312531</id>
+    <published>2021-03-11T09:48:50+00:00</published>
+    <updated>2021-03-11T09:48:50+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/axis-leggings-slate"/>
+    <title>Axis Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/AXIS_SET_SLATE_015.jpg?v=1614611416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span></span><span>This signature full-length performance legging is crafted from compressive fabric and finished with bonded seams and hem. </span>The Axis leggings are inspired by the bound detailing of boxing wrap and feature contrasting matte and gloss lines that complement the compressive nature of the performance fabric. The high-rise bonded Svelte waistband features wrap paneling and reflective chevron details for visibility on your next run. </p>
+<p><span>Model is 5'10, waist 24" and wears size small.</span></p>
+<p><span>Main: 59% Polyamide 41% Elastane, Gloss: 79% Polyamide 21% Elastane, Mesh: 71% Polyamide 29% Elastane.</span></p>
+<meta charset="utf-8">
+<p><span>Inner leg measurements: XS 68.5cm / S 69cm / M 69.5cm / L 70cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>badge-limited-edition</s:tag>
+    <s:tag>black</s:tag>
+    <s:tag>colour-slate</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-compression</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-reflective-detailing</s:tag>
+    <s:tag>detail-slim-fit-and-support</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>recommended-axis-sports-bra-black</s:tag>
+    <s:tag>recommended-axis-sports-bra-slate</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-black</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-midnight</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-leggings</s:tag>
+    <s:tag>type-performance</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4730110312531</id>
+      <title>XS</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CSL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4730110312531</id>
+      <title>S</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CSL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4730110312531</id>
+      <title>M</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CSL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4730110312531</id>
+      <title>L</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CSL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/2920612364388</id>
+    <published>2021-03-03T10:38:52+00:00</published>
+    <updated>2021-03-03T10:38:52+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/technical-knit-leggings-black"/>
+    <title>Technical Knit Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/TECH_KNIT_LEGGINGS_1249.jpg?v=1611757335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p>Super-soft comfort of the Lucas Hugh technical knit leggings, now sustainably made from recycled Qnova yarn. Without any zips, seams or clasps, they fit like a second skin. These leggings are perfect for floor-based exercises such as yoga, pilates, and dance. Knitted with a compression weave on the upper leg, seat and waist and softer lighter weave down the leg. Built-in seamless brief for added coverage, and ankle logo. Sustainably made in Europe from 91% Qnova Recycled Polyamide 9% Elastane.</p>
+<p>Model is 5'11 / 182cm, waist 24 / 61cm, hips 34 / 86cm and wears a size small</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge-sustainable</s:tag>
+    <s:tag>colour-black</s:tag>
+    <s:tag>detail-4-way-stretch</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-ecosystem</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-seamless-circular-knit</s:tag>
+    <s:tag>detail-second-skin-comfort</s:tag>
+    <s:tag>detail-shape-retention</s:tag>
+    <s:tag>detail-slim-fit-and-support</s:tag>
+    <s:tag>new-in</s:tag>
+    <s:tag>recommended-axis-sports-bra-black</s:tag>
+    <s:tag>recommended-technical-jumper-winter-weight</s:tag>
+    <s:tag>recommended-technical-knit-7-8-leggings-black</s:tag>
+    <s:tag>recommended-technical-knit-sports-bra-black</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-technical-knit</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2920612364388</id>
+      <title>XS</title>
+      <s:price currency="GBP">90.00</s:price>
+      <s:sku>LLC07BL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2920612364388</id>
+      <title>S</title>
+      <s:price currency="GBP">90.00</s:price>
+      <s:sku>LLC07BL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2920612364388</id>
+      <title>M</title>
+      <s:price currency="GBP">90.00</s:price>
+      <s:sku>LLC07BL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2920612364388</id>
+      <title>L</title>
+      <s:price currency="GBP">90.00</s:price>
+      <s:sku>LLC07BL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/2920554168420</id>
+    <published>2021-03-03T10:38:40+00:00</published>
+    <updated>2021-03-03T10:38:40+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/technical-knit-7-8-leggings-black"/>
+    <title>Technical Knit 7/8 Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/TECH_KNIT_78_LEGGINGS_1329.jpg?v=1611756036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Super-soft comfort of the Lucas Hugh technical knit 7/8 leggings, now sustainably made from recycled Qnova yarn. Without any zips, seams or clasps, they fit like a second skin. These leggings are perfect for floor-based exercises such as yoga, pilates, and dance. Knitted with a compression weave on the upper leg, seat and waist and softer lighter weave down the leg. Built-in seamless brief for added coverage, and ankle logo. Sustainably made in Europe from 91% Onova Recycled Polyamide 9% Elastane.</p>
+<p>Model is 5'11 / 182cm, waist 24 / 61cm, hips 34 / 86cm and wears size small</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-dance</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>activity-yoga-barre</s:tag>
+    <s:tag>badge-sustainable</s:tag>
+    <s:tag>colour-black</s:tag>
+    <s:tag>detail-4-way-stretch</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-ecosystem</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-seamless-circular-knit</s:tag>
+    <s:tag>detail-second-skin-comfort</s:tag>
+    <s:tag>detail-shape-retention</s:tag>
+    <s:tag>detail-slim-fit-and-support</s:tag>
+    <s:tag>new-in</s:tag>
+    <s:tag>recommended-technical-knit-hotties-black</s:tag>
+    <s:tag>recommended-technical-knit-leggings-black</s:tag>
+    <s:tag>recommended-technical-knit-sports-bra-black</s:tag>
+    <s:tag>recommended-technical-knit-t-shirt-black</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>sustainable</s:tag>
+    <s:tag>type-leggings</s:tag>
+    <s:tag>type-technical-knit</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2920554168420</id>
+      <title>XS</title>
+      <s:price currency="GBP">85.00</s:price>
+      <s:sku>LLC08BL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2920554168420</id>
+      <title>S</title>
+      <s:price currency="GBP">85.00</s:price>
+      <s:sku>LLC08BL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2920554168420</id>
+      <title>M</title>
+      <s:price currency="GBP">85.00</s:price>
+      <s:sku>LLC08BL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2920554168420</id>
+      <title>L</title>
+      <s:price currency="GBP">85.00</s:price>
+      <s:sku>LLC08BL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/4730112704595</id>
+    <published>2021-02-05T10:14:38+00:00</published>
+    <updated>2021-02-05T10:14:38+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/axis-leggings-garnet"/>
+    <title>Axis Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/AXIS_SET_GARNET_208.jpg?v=1612465454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span></span><span>This signature full-length performance legging is crafted from compressive fabric and finished with bonded seams and hem. </span>The Axis leggings are inspired by the bound detailing of boxing wrap and feature contrasting matte and gloss lines that complement the compressive nature of the performance fabric. The high-rise bonded Svelte waistband features wrap paneling, a built in brief and reflective chevron details for visibility on your next run.</p>
+<p><span>Model is 5'10, waist 24" and wears size small.</span></p>
+<p><span>Main: 59% Polyamide 41% Elastane, Gloss: 79% Polyamide 21% Elastane, Mesh: 71% Polyamide 29% Elastane.</span></p>
+<meta charset="utf-8">
+<p><span>Inner leg measurements: XS-68.5cm / S-69cm / M-69.5cm / L-70cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>badge-limited-edition</s:tag>
+    <s:tag>colour-garnet</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-compression</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-reflective-detailing</s:tag>
+    <s:tag>detail-slim-fit-and-support</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>recommended-axis-crop-tank-black</s:tag>
+    <s:tag>recommended-axis-sports-bra-garnet</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-burgundy</s:tag>
+    <s:tag>recommended-technical-knit-sleeveless-t-shirt-maroon</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-leggings</s:tag>
+    <s:tag>type-performance</s:tag>
+    <s:tag>type-tops</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4730112704595</id>
+      <title>XS</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CGA-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4730112704595</id>
+      <title>S</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CGA-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4730112704595</id>
+      <title>M</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CGA-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4730112704595</id>
+      <title>L</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CGA-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/4718793949267</id>
+    <published>2020-12-17T10:00:08+00:00</published>
+    <updated>2020-12-17T10:00:08+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/axis-leggings-cobalt-blue"/>
+    <title>Axis Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/LOOK_3_1284.jpg?v=1606826180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span></span><span>This signature full-length performance legging is crafted from compressive fabric and finished with bonded seams and hem. </span>The Axis leggings are inspired by the bound detailing of boxing wrap and feature contrasting matte and gloss lines that complement the compressive nature of the performance fabric. The high-rise bonded Svelte waistband features wrap paneling and reflective chevron details for visibility on your next run. </p>
+<p><span>Model is 5'10, waist 25" and wears size small.</span></p>
+<p><span>Main: 59% Polyamide 41% Elastane, Gloss: 79% Polyamide 21% Elastane, Mesh: 71% Polyamide 29% Elastane.</span></p>
+<meta charset="utf-8">
+<p><span>Inner leg measurements: XS 68.5cm / S 69cm / M 69.5cm / L 70cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>badge-limited-edition</s:tag>
+    <s:tag>colour-cobalt-blue</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-compression</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>detail-reflective-detailing</s:tag>
+    <s:tag>detail-slim-fit-and-support</s:tag>
+    <s:tag>detail-ventilation</s:tag>
+    <s:tag>recommended-axis-crop-tank-cobalt-blue</s:tag>
+    <s:tag>recommended-axis-sports-bra-cobalt-blue</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-black</s:tag>
+    <s:tag>recommended-pivot-pleated-skirt-midnight</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-leggings</s:tag>
+    <s:tag>type-performance</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4718793949267</id>
+      <title>XS</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CCB-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4718793949267</id>
+      <title>S</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CCB-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4718793949267</id>
+      <title>M</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CCB-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/4718793949267</id>
+      <title>L</title>
+      <s:price currency="GBP">170.00</s:price>
+      <s:sku>LL015CCB-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/3111683752036</id>
+    <published>2019-03-19T15:03:39+00:00</published>
+    <updated>2019-03-19T15:03:39+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/performance-7-8-leggings-black"/>
+    <title>Performance 7/8 Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/lucas-hugh-carbon-crop-black_892.jpg?v=1553008229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Figure-enhancing workout staple that lifts and elongates. The tight-weave wicking fabric, faced waistband, internal structural layer at the rear and inner-thigh ventilation panels create a supportive, comfortable and uniquely flattering fit. Key zip pocket embedded within yoke to add further functional details. Made from 59% Polyamide 41% Elastane.</p>
+<p class="p1">Model is 5'11 / 182cm, bust 32" / 76cm and wears size small</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>colour-black</s:tag>
+    <s:tag>detail-4-way-stretch</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-compression</s:tag>
+    <s:tag>detail-concealed-pockets</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-pilling-resistant</s:tag>
+    <s:tag>detail-reflective-detailing</s:tag>
+    <s:tag>detail-slim-fit-and-support</s:tag>
+    <s:tag>detail-uv-protection</s:tag>
+    <s:tag>recommended-carbon-crop-sweatshirt-black</s:tag>
+    <s:tag>recommended-performance-7-8-leggings-black-pinstripe</s:tag>
+    <s:tag>recommended-performance-cross-back-sports-bra-black</s:tag>
+    <s:tag>recommended-technical-knit-leggings-black</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-HIIT</s:tag>
+    <s:tag>type-leggings</s:tag>
+    <s:tag>type-performance</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/3111683752036</id>
+      <title>XS</title>
+      <s:price currency="GBP">85.00</s:price>
+      <s:sku>LLC10BL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/3111683752036</id>
+      <title>S</title>
+      <s:price currency="GBP">85.00</s:price>
+      <s:sku>LLC10BL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/3111683752036</id>
+      <title>M</title>
+      <s:price currency="GBP">85.00</s:price>
+      <s:sku>LLC10BL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/3111683752036</id>
+      <title>L</title>
+      <s:price currency="GBP">85.00</s:price>
+      <s:sku>LLC10BL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/2923700748388</id>
+    <published>2019-02-27T17:11:05+00:00</published>
+    <updated>2019-02-27T17:11:05+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/technical-knit-capri-leggings-black"/>
+    <title>Technical Knit Capri Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/LOOK_10_3631.jpg?v=1594906494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Update your workout basics with the super-soft comfort of the Lucas Hugh circular knit capri leggings. Without any zips, seams or clasps, they fit like a second skin so are perfect for floor-based exercise such as yoga, Pilates and dance. They feature contrasting texture, breathable pinhole panels at the hips and knee and a Lucas Hugh reflective logo on the left thigh. With a built-in under-short for added protection and support. Made from 94% Polyamide 6% Elastane.</p>
+<p class="p1">Model is 5'11 / 182cm, waist 24" / 61cm, hips 34" / 86cm and wears size small.</p>
+<meta charset="utf-8">
+<p class="p1"><span>Inner leg measurements: XS </span><span>26</span><span>cm / S </span><span>27</span><span>cm / M </span><span>28</span><span>cm / L 29cm</span><span>.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-dance</s:tag>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>activity-yoga-barre</s:tag>
+    <s:tag>colour-black</s:tag>
+    <s:tag>detail-4-way-stretch</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-brushed-comfort</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-concealed-pockets</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-seamless-circular-knit</s:tag>
+    <s:tag>detail-shape-retention</s:tag>
+    <s:tag>detail-slim-fit-and-support</s:tag>
+    <s:tag>recommended-performance-v2-capri-leggings-black</s:tag>
+    <s:tag>recommended-technical-knit-hotties-black</s:tag>
+    <s:tag>recommended-technical-knit-sports-bra-black</s:tag>
+    <s:tag>recommended-technical-knit-tank-black</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-leggings</s:tag>
+    <s:tag>type-technical-knit</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2923700748388</id>
+      <title>XS</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku>CLC04BL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2923700748388</id>
+      <title>S</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku>CLC04BL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2923700748388</id>
+      <title>M</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku>CLC04BL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2923700748388</id>
+      <title>L</title>
+      <s:price currency="GBP">65.00</s:price>
+      <s:sku>CLC04BL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/2921217392740</id>
+    <published>2019-02-27T12:13:35+00:00</published>
+    <updated>2019-02-27T12:13:35+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/performance-v2-capri-leggings-black"/>
+    <title>Performance V2 Capri Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/Performance_capri_black_2606.jpg?v=1596546195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            115.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Figure-enhancing workout staple that lifts and elongates. The tight-weave wicking fabric, faced waistband, internal structural layer at the rear and inner-thigh ventilation panels create a supportive, comfortable and uniquely flattering fit. Key zip pocket embedded within yoke to add further functional details. Made from 72% Polyamide 28% Elastane.</p>
+<p>Model is 5' 11'' / 182cm, Waist 24'' / 61cm, Hips 34'' / 86cm and wears a size small. This product is firm fitting around the hem band. If you are taller than 5'6 we suggest sizing up.</p>
+<meta charset="utf-8">
+<p><span>Inner leg measurements: XS 38cm / S 39cm / M 40cm / L 41cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>colour-black</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-excellent-coverage</s:tag>
+    <s:tag>detail-line-dry</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-pilling-resistant</s:tag>
+    <s:tag>detail-quick-dry</s:tag>
+    <s:tag>recommended-mesh-crop-t-shirt-white</s:tag>
+    <s:tag>recommended-performance-cross-back-sports-bra-black</s:tag>
+    <s:tag>recommended-performance-t-shirt-black</s:tag>
+    <s:tag>recommended-technical-knit-sports-bra-atlantic</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-HIIT</s:tag>
+    <s:tag>type-leggings</s:tag>
+    <s:tag>type-performance</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2921217392740</id>
+      <title>XS</title>
+      <s:price currency="GBP">115.00</s:price>
+      <s:sku>CLC05BL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2921217392740</id>
+      <title>S</title>
+      <s:price currency="GBP">115.00</s:price>
+      <s:sku>CLC05BL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2921217392740</id>
+      <title>M</title>
+      <s:price currency="GBP">115.00</s:price>
+      <s:sku>CLC05BL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2921217392740</id>
+      <title>L</title>
+      <s:price currency="GBP">115.00</s:price>
+      <s:sku>CLC05BL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/2877464477796</id>
+    <published>2019-02-20T17:41:36+00:00</published>
+    <updated>2019-02-20T17:41:36+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/performance-v2-leggings-marine"/>
+    <title>Performance V2 Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/Performance_V2_Marine_1603.jpg?v=1581078780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Figure-enhancing workout staple that lifts and elongates.</p>
+<p>The tight-weave wicking fabric, faced waistband, internal structural layer at the rear and inner-thigh ventilation panels create a supportive, comfortable and uniquely flattering fit. Key zip pocket embedded within new reinforced stitched yoke to add further functional details. Made from 59% Polyamide 41% Elastane.</p>
+<p>Model is 5' 11'' / 182cm, Waist 24'' / 61cm, Hips 34'' / 86cm and wears size small.</p>
+<meta charset="utf-8">
+<p><span>Inner leg measurements: XS 70.5cm / S 71cm / M 71.5cm / L 72cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>colour-blue</s:tag>
+    <s:tag>detail-4-way-stretch</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-compression</s:tag>
+    <s:tag>detail-concealed-pockets</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-pilling-resistant</s:tag>
+    <s:tag>detail-reflective-detailing</s:tag>
+    <s:tag>detail-slim-fit-and-support</s:tag>
+    <s:tag>detail-uv-protection</s:tag>
+    <s:tag>recommended-aircut-sports-bra-marine</s:tag>
+    <s:tag>recommended-aircut-tank-marine</s:tag>
+    <s:tag>recommended-flexon-leggings-marine-red</s:tag>
+    <s:tag>recommended-technical-knit-7-8-leggings-marine</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-leggings</s:tag>
+    <s:tag>type-performance</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2877464477796</id>
+      <title>XS</title>
+      <s:price currency="GBP">140.00</s:price>
+      <s:sku>LLC09MA-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2877464477796</id>
+      <title>S</title>
+      <s:price currency="GBP">140.00</s:price>
+      <s:sku>LLC09MA-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2877464477796</id>
+      <title>M</title>
+      <s:price currency="GBP">140.00</s:price>
+      <s:sku>LLC09MA-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2877464477796</id>
+      <title>L</title>
+      <s:price currency="GBP">140.00</s:price>
+      <s:sku>LLC09MA-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.lucashugh.com/products/2855588233316</id>
+    <published>2019-02-20T17:41:36+00:00</published>
+    <updated>2019-02-20T17:41:36+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.lucashugh.com/products/performance-v2-leggings-black"/>
+    <title>Performance V2 Leggings</title>
+    <s:type>Leggings</s:type>
+    <s:vendor>Lucas Hugh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/0158/1668/products/Performance_V2_black_1173.jpg?v=1581079785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucas Hugh<br>
+        <strong>Type: </strong>Leggings<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Figure-enhancing workout staple that lifts and elongates. The tight-weave wicking fabric, faced waistband, and internal structural layer at the rear create a supportive, comfortable and uniquely flattering fit. Made from 59% Polyamide 41% Elastane.</p>
+<p>Model is 5' 11'' / 182cm, Waist 24'' / 61cm, Hips 34'' / 86cm and wears size small</p>
+<meta charset="utf-8">
+<p><span>Inner leg measurements: XS 70.5cm / S 71cm / M 71.5cm / L 72cm.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>activity-gym</s:tag>
+    <s:tag>activity-running</s:tag>
+    <s:tag>activity-walking-hiking</s:tag>
+    <s:tag>colour-black</s:tag>
+    <s:tag>detail-4-way-stretch</s:tag>
+    <s:tag>detail-bonded-technology</s:tag>
+    <s:tag>detail-breathable</s:tag>
+    <s:tag>detail-cold-machine-wash</s:tag>
+    <s:tag>detail-compression</s:tag>
+    <s:tag>detail-concealed-pockets</s:tag>
+    <s:tag>detail-moisture-management</s:tag>
+    <s:tag>detail-pilling-resistant</s:tag>
+    <s:tag>detail-reflective-detailing</s:tag>
+    <s:tag>detail-slim-fit-and-support</s:tag>
+    <s:tag>detail-uv-protection</s:tag>
+    <s:tag>recommended-dynamo-sports-bra-black</s:tag>
+    <s:tag>recommended-performance-7-8-leggings-black</s:tag>
+    <s:tag>recommended-performance-cross-back-tank-black</s:tag>
+    <s:tag>recommended-performance-v2-capri-leggings-black</s:tag>
+    <s:tag>size-l</s:tag>
+    <s:tag>size-m</s:tag>
+    <s:tag>size-s</s:tag>
+    <s:tag>size-xs</s:tag>
+    <s:tag>spo-default</s:tag>
+    <s:tag>spo-disabled</s:tag>
+    <s:tag>type-HIIT</s:tag>
+    <s:tag>type-leggings</s:tag>
+    <s:tag>type-performance</s:tag>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2855588233316</id>
+      <title>XS</title>
+      <s:price currency="GBP">140.00</s:price>
+      <s:sku>LLC09BL-XS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2855588233316</id>
+      <title>S</title>
+      <s:price currency="GBP">140.00</s:price>
+      <s:sku>LLC09BL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2855588233316</id>
+      <title>M</title>
+      <s:price currency="GBP">140.00</s:price>
+      <s:sku>LLC09BL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.lucashugh.com/products/2855588233316</id>
+      <title>L</title>
+      <s:price currency="GBP">140.00</s:price>
+      <s:sku>LLC09BL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
